@@ -2,11 +2,11 @@
 <h3 align="center">🤖 AI and ML Engineer | Data Enthusiast </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Technical+Team+Lead+%40+Rubix+SA;AI+Solution+Architect;Advanced+AI+Instructor+%40+Instant;Kaggle+Grandmaster;Data+Scientist+%26+ML+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=AI+and+ML+Enginner+%40+Rubix+SA;Data+Enthusiast" alt="Typing SVG" />
 </p>
 
 <div align="center">
-  <img src="https://media.tenor.com/ow94qLGI8WsAAAAC/ai.gif" width="400px" />
+  <img src="https://online.jwu.edu/blog/future-of-ai-applications-of-artificial-intelligence/" width="400px" />
 </div>
 
 ---
