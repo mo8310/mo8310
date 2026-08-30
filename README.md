@@ -2,7 +2,7 @@
 <h3 align="center">🤖 AI Engineer | Data Enthusiast </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=AI+Enginner;Computer+Vision+and+NLP ;Data+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=AI+Enginner;Computer+Vision+and+NLP;Data+Enthusiast" alt="Typing SVG" />
 </p>
 
 <div align="center">
