@@ -40,7 +40,7 @@
 -  **Passionate about** Building intelligent systems that solve complex real-world problems.
 
 ---
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Programming & Engineering
 
