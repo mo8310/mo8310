@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Elalfy</h1>
-<h3 align="center">🤖 AI and ML Engineer | Data Enthusiast </h3>
+<h3 align="center">🤖 AI Engineer | Deep Learning | Computer Vision and NLP | Data Enthusiast </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=AI+and+ML+Enginner;Data+Enthusiast" alt="Typing SVG" />
@@ -16,7 +16,7 @@
 -  **AI and ML Trainee** @ ITI — Information Technology Institute .
 -  **Ex AI Engineer Intern** @ Orange, BEDO.
 -  **AI Engineer** with hands-on experience in deep learning, automation & data science.
--  Based in **6th Octobar - Giza, Egypt**.
+-  Based in **Cairo, Egypt**.
 -  Passionate about building intelligent systems that solve complex real-world problems.
 
 ---
