@@ -72,7 +72,6 @@ Tools & Deployment
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohamedElalfy&layout=compact&hide_border=true&langs_count=6&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" height="180" />
 
 </div>
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MohamedElalfy&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
