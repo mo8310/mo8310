@@ -16,7 +16,7 @@
 
 -  **AI and ML Trainee** @ ITI — Information Technology Institute .
 -  **Ex AI Engineer Intern** @ Orange, BEDO.
--  **AI Engineer** with hands-on experience in deep learning, automation & data science.
+-  **AI Engineer** with hands-on experience in deep learning, NLP and data science.
 -  Based in **Cairo, Egypt**.
 -  Passionate about building intelligent systems that solve complex real-world problems.
 
