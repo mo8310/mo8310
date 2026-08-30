@@ -36,11 +36,17 @@
 -  **AI and ML Trainee** @ ITI — Information Technology Institute .
 -  **Ex AI Engineer Intern** @ Orange, BEDO.
 -  **Based in** Cairo, Egypt.
--  **Passionate about** building intelligent systems that solve complex real-world problems.
+-  **Areas of Interest** Machine Learning · Deep Learning · Computer Vision · NLP · Generative AI · LLMs · RAG Systems · Transfer Learning
+-  **Passionate about** Building intelligent systems that solve complex real-world problems.
 
 ---
 
 ### 🛠️ Tech Stack
+Programming & Data
+
+<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> </p>
+
+
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -71,24 +77,6 @@
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohamedElalfy&layout=compact&hide_border=true&langs_count=6&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" height="180" />
 
 </div>
----
-
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohammed-elalfy04/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.kaggle.com/mohamedelalfy01" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.facebook.com/muhamed.elalfy.2025?locale=ar_AR" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 <p align="center">
