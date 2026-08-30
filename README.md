@@ -129,9 +129,6 @@
 </p>
 
 ---
-**Specialties:** Generative Adversarial Networks (GANs) · NLP · RAG System · Decision Making · Deep and Machine Learning
-
----
 ## GitHub Analytics
 <div align="center">
 
