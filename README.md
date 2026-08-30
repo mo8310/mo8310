@@ -37,25 +37,20 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Embedded%20Systems-008080?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
+---
 **Specialties:** Generative Adversarial Networks (GANs) · NLP · RAG System · Decision Making · Deep and Machine Learning
 
 ---
+## GitHub Analytics
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedElalfy&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedElalfy&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedElalfy&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdubakr77&layout=compact&hide_border=true&langs_count=6&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_color=30363d" height="180" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abdubakr77&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=1f6feb&border_color=30363d" height="180" />
+</div>
 
 ---
 
