@@ -64,6 +64,16 @@ Tools & Deployment
 
 ---
 ## GitHub Analytics
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MohamedElalfy&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark" height="180" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedElalfy&layout=compact&hide_border=true&langs_count=6&theme=github_dark" height="180" />
+
+</div>
+
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedElalfy&theme=github-dark-blue&hide_border=true" /> </p>
+
 
 <div align="center">
 
