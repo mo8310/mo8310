@@ -74,15 +74,6 @@ Tools & Deployment
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedElalfy&theme=github-dark-blue&hide_border=true" /> </p>
 
-
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MohamedElalfy&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=1f6feb" height="180" />
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohamedElalfy&layout=compact&hide_border=true&langs_count=6&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" height="180" />
-
-</div>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MohamedElalfy&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
