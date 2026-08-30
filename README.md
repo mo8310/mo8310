@@ -35,9 +35,8 @@
 
 -  **AI and ML Trainee** @ ITI — Information Technology Institute .
 -  **Ex AI Engineer Intern** @ Orange, BEDO.
--  **AI Engineer** with hands-on experience in deep learning, NLP and data science.
--  Based in **Cairo, Egypt**.
--  Passionate about building intelligent systems that solve complex real-world problems.
+-  **Based in** Cairo, Egypt.
+-  **Passionate about** building intelligent systems that solve complex real-world problems.
 
 ---
 
@@ -66,11 +65,12 @@
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdubakr77&layout=compact&hide_border=true&langs_count=6&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_color=30363d" height="180" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abdubakr77&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=1f6feb&border_color=30363d" height="180" />
-</div>
 
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MohamedElalfy&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=1f6feb" height="180" />
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohamedElalfy&layout=compact&hide_border=true&langs_count=6&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" height="180" />
+
+</div>
 ---
 
 ### 🌐 Connect with Me
