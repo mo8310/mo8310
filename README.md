@@ -36,7 +36,7 @@
 -  **AI and ML Trainee** @ ITI — Information Technology Institute .
 -  **Ex AI Engineer Intern** @ Orange, BEDO.
 -  **Based in** Cairo, Egypt.
--  **Areas of Interest** Machine Learning · Deep Learning · Computer Vision · NLP · Generative AI · LLMs · RAG Systems · Transfer Learning
+-  **Areas of Interest** Machine Learning · Deep Learning · NLP · Generative AI · LLMs · RAG Systems · Transfer Learning
 -  **Passionate about** Building intelligent systems that solve complex real-world problems.
 
 ---
