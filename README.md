@@ -102,7 +102,7 @@
   <img src="https://img.shields.io/badge/Statistics-2E8B57?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Optimization-FF8C00?style=for-the-badge"/>
 </p>
----
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MohamedElalfy&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
