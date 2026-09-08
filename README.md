@@ -31,7 +31,7 @@
 
 ###  About Me
 
--  **AI and ML Trainee** @ Microsoft Egypt .
+-  **AI Trainee** @ Microsoft Egypt .
 -  **Ex AI Engineer Intern** @ Orange, BEDO.
 -  **Based in** Cairo, Egypt.
 -  **Areas of Interest** Machine Learning · Deep Learning · NLP · Generative AI · LLMs · RAG Systems · Transfer Learning
