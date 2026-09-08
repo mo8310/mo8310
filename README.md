@@ -109,20 +109,14 @@
 ## GitHub Analytics
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedElalfy&theme=github-compact&hide_border=true&area=true" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedElalfy&theme=github-dark-blue&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MohamedElalfy&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=MohamedElalfy&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-
-<div align="center">
-
-</div>
-
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedElalfy&theme=github-dark-blue&hide_border=true" /> </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MohamedElalfy&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
